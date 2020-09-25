@@ -28,7 +28,7 @@
 
 Clone the repository
 
-``
+`git clone https://github.com/rkdlight/statistic_of_visits.git`
 
 Install requirements 
 
